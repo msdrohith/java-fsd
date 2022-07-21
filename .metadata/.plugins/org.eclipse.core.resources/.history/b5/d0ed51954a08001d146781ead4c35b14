@@ -1,0 +1,27 @@
+package com;
+
+class defAccessSpecifier
+{ 
+  void display() 
+     {
+         System.out.println("You are using defalut access specifier"); 
+     } 
+
+
+  public static void main(final String[] args) {
+		//default
+	  extracted();
+	  defAccessSpecifier var = new defAccessSpecifier(); 
+	  }
+
+
+	  private static void extracted() {
+		System.out.println("Dafault Access Specifier");
+		defAccessSpecifier obj = new defAccessSpecifier(); 		  
+        obj.display(); 
+
+	}
+}
+	
+
+

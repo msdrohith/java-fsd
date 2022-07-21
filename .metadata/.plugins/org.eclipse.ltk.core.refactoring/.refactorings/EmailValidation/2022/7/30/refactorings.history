@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;EmailValidation.java&apos; to &apos;EmailValidator.java&apos;&#x0D;&#x0A;- Original project: &apos;EmailValidation&apos;&#x0D;&#x0A;- Original element: &apos;EmailValidation.java&apos;&#x0D;&#x0A;- Renamed element: &apos;EmailValidator.java&apos;" description="Rename compilation unit &apos;EmailValidation.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{EmailValidation.java" name="EmailValidator.java" references="false" stamp="1658321008845" version="1.0"/>
+</session>
