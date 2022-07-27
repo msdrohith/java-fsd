@@ -1,5 +1,6 @@
 package com;
 
+
 import java.util.Scanner;
  
 public class  LongestIncreasingSubsequence
@@ -32,9 +33,7 @@ public class  LongestIncreasingSubsequence
                 L = Math.max(L,j + 1);
             }
         }
- 
-        /** backtrack **/
- 
+
         int[] result = new int[L];
         int pos = M[L];
         for (int i = L - 1; i >= 0; i--)
