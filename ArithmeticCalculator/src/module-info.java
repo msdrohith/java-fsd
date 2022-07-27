@@ -1,3 +1,0 @@
-module ArithmeticCalculator {
-	exports com;
-}
