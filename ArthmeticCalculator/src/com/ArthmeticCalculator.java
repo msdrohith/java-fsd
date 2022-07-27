@@ -1,6 +1,6 @@
 package com;
 
-public class ArthmeticCalculator {
+public class Arthmetic Calculator {
 	import java.util.Scanner;
 
 	class Main {
